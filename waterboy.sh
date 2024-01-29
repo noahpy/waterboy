@@ -1,3 +1,4 @@
+#!/bin/sh
 
 if [ $# = 0 ]; then
     echo "Give me some names, Waterboy!" | cowsay
